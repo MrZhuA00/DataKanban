@@ -1,5 +1,5 @@
 {
-  "name": "DataKanban",
+  "name": "datakanban",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -52,5 +52,17 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrZhuA00/DataKanban.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrZhuA00/DataKanban/issues"
+  },
+  "homepage": "https://github.com/MrZhuA00/DataKanban#readme"
 }
